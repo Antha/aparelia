@@ -54,8 +54,8 @@ a, button {
 }
 
 .custom-theme {
-  *background-color: #EF5350 !important;
-  /*background-color: #ab47bc !important;*/
+  /*background-color: #EF5350 !important;*/
+  background-color: #ab47bc !important;
   /*background-color: #3949ab !important;*/
 }
 

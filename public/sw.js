@@ -1,4 +1,4 @@
-const cacheVersion = 'v2-pwa-dasar';
+const cacheVersion = 'v1-pwa-dasar';
 
 const filesToCache = [
   '/',
